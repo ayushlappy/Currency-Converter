@@ -1,4 +1,6 @@
 Currency Converter & Exchange Rate Visualization 💱📊
+
+
 📌 Introduction
 This is a Python-based Currency Converter that allows users to convert currencies in real-time, track conversion history, and visualize exchange rates using charts. Built with Tkinter, it provides an interactive GUI, supports user authentication via SQLite, and fetches live exchange rates from an API.
 
