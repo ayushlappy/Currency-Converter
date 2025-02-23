@@ -26,6 +26,9 @@ API: ExchangeRate-API
 Libraries Used:
 
 requests – Fetches real-time exchange rates
+
 sqlite3 – Handles user authentication & history storage
+
 matplotlib – Plots currency exchange rates
+
 tkinter.ttk – Enhances GUI components
